@@ -1,0 +1,45 @@
+body {
+	background: url("../../assets/images/digitape-bg.jpg") center;
+}
+
+#container {
+	background-image: url("../../assets/images/drum-machine-bg.png");
+	width: 600px;
+	height: 648px;
+/*	max-width: 600px;
+	max-height: 648px;*/
+	margin: 40px auto;
+	box-shadow: 10px 10px 20px rgba(0, 0, 0, 0.5);
+}
+
+.drumPad {
+	width: 16.5%;
+	height: 15.28%;
+	display: inline-block;
+	float: left;
+	margin-bottom: 3.99%;
+    margin-right: 4.45%;
+    opacity: 0.0;
+}
+
+.drumPad:nth-of-type(4n+1) {
+	margin-left: 91px;
+}
+
+.firstSet {
+	margin-top: 24.6%;
+	background: url("../../assets/images/purple.png")
+}
+
+.green {
+	background: url("../../assets/images/green.png");
+}
+
+.orange {
+	background: url("../../assets/images/orange.png");
+}
+
+.red {
+	background: url("../../assets/images/red.png");
+}
+
