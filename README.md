@@ -9,3 +9,5 @@ playable with your mouse or keyboard:
 | Q | W | E | R |  
 | A | S | D | F |
 | Z | X | C | V |
+
+! [screenshot](/assets/images/drum-machine-screenshot.jpg)
