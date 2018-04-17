@@ -2,7 +2,7 @@
 
 Web-based Drum machine to feature sounds of Noisefirm Release, "Digitape Drums"
 
-[Digitape Hybrid Drums] (https://noisefirm.com/product/digitape-hybrid-drums/)
+[Digitape Hybrid Drums](https://noisefirm.com/product/digitape-hybrid-drums/)
 
 Drum machine consists of 16 "pads"
 
