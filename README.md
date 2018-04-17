@@ -9,5 +9,3 @@ playable with your mouse or keyboard:
 | Q | W | E | R |  
 | A | S | D | F |
 | Z | X | C | V |
-
-view demo [here](http://paulgregoryshearer.com/portfolio/DigitapeDrumMachine/digitapeDrumMachine.html)
